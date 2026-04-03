@@ -3,5 +3,5 @@
 ## installation
 
 ```bash
-git clone git@github.com:Spring317/lazyvim-.git ~/.config/nvim
+git clone https://github.com/Spring317/lazyvim-.git ~/.config/nvim
 ```
