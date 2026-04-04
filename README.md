@@ -3,5 +3,6 @@
 ## installation
 
 ```bash
+rm -rf ~/.config/nvim
 git clone https://github.com/Spring317/lazyvim-.git ~/.config/nvim
 ```
