@@ -6,5 +6,6 @@ return {
     indent = {
       animate = { enabled = false }, -- Disables scope line animations
     },
+    notifier = { enabled = false }, -- Disables floating notifications
   },
 }
